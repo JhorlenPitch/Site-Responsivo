@@ -6,7 +6,7 @@ Para experimentar uma demonstração de responsividade aplicada em um site, voc�
 
 Para obter o código-fonte, siga estas etapas:
 
-Visite o repositório do projeto no GitHub: https://github.com/JhorlenPitch/Site-Responsivo---Ricardo-Fotos
+Visite o repositório do projeto no GitHub: https://github.com/JhorlenPitch/Site-Responsivo
 
 Clique no botão verde "Code" (ou "Código") e escolha a opção para baixar o ZIP do projeto ou copie a URL do repositório para cloná-lo.
 
